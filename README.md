@@ -1,12 +1,12 @@
 # Mini-Project Summary: Text Generation with MOBY-DICK Book Data
 
 ## Overview:
-This mini-project focuses on generating text using data from at least five chapters of the MOBY-DICK book. The objective is to develop a text generation model that can produce coherent and diverse text based on the patterns learned from the book.
+This mini-project focuses on generating text using data from five chapters of the MOBY-DICK book. The objective is to develop a text generation model that can produce coherent and diverse text based on the patterns learned from the book.
 
 ## Implemented Tasks:
 
 ### 1. Data Preparation:
-- Extracted text data from MOBY-DICK book, specifically from five or more chapters.
+- Extracted text data from MOBY-DICK book, specifically from five chapters.
 - Preprocessed the text by tokenization, converting to lowercase, expanding contractions, removing punctuation, and applying lemmatization or stemming.
 
 ### 2. Model Development:
