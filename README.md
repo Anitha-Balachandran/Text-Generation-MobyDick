@@ -10,7 +10,7 @@ This mini-project is an exploration into text generation using data from at leas
 - Preprocessed the text by tokenization, converting to lowercase, expanding contractions, removing punctuation, and applying lemmatization or stemming.
 
 ### 2. Model Development:
-- Developed a multiclass classification sequential model (e.g., GRU/LSTM/RNN) using Keras word embeddings for text generation.
+- Developed a multiclass classification sequential model (GRU/LSTM/RNN) using Keras word embeddings for text generation.
 - Used a sequence length of at least 25 tokens as X features and predicted the immediate next token as the Y feature.
 - Trained the model to generate text that is diverse and meaningful, ensuring it does not consist solely of identical words and contains a minimum of 50 words (tokens).
 
