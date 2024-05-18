@@ -15,7 +15,7 @@ This mini-project is an exploration into text generation using data from at leas
 - Trained the model to generate text that is diverse and meaningful, ensuring it does not consist solely of identical words and contains a minimum of 50 words (tokens).
 
 ### 3. Transfer Learning:
-- Explored transfer learning techniques using Word2Vec, GloVe, and ELMo word embeddings for text generation.
+- Explored transfer learning techniques using Word2Vec and GloVe word embeddings for text generation.
 - Leveraged pre-trained embeddings to enhance the quality and diversity of the generated text.
 - Utilized cosine similarity to identify the five words most similar to "whale" based on the trained word embeddings.
 
